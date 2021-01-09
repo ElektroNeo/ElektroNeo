@@ -18,4 +18,6 @@
 - **Python**
 - **C#**
 - **PIC Assembly**
-- **Node JS**
+- **Node JS**  
+
+![](https://komarev.com/ghpvc/?username=ElektroNeo&label=PROFILE+VIEWS)
