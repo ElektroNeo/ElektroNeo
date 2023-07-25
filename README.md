@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **ESP32, PIC, Atmel or STM32**
 
-- 📫 How to reach me: **bahtiyar@trionembedded.com**
+- 📫 How to reach me: **bahtiyar.bayramov@gmail.com**
 
 **Programming Languages**
 - **C/C++**
